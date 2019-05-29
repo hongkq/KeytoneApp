@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eb5c3ec-59ea-4dba-9914-966678b2dacc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.euml2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/text-base/org.eclipse.core.resources.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/text-base/org.eclipse.core.runtime.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/text-base/org.eclipse.jdt.core.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/text-base/org.eclipse.jdt.ui.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/.svn/text-base/org.eclipse.ltk.core.refactoring.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.settings/org.eclipse.ltk.core.refactoring.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/.umlproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/RemotePCDroid Client.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R$xml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidControlActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidFEActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidFEActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidInit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidSettingsActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnEditActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnListActivity$ConnectionListAdapter$ConnectionViewHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnListActivity$ConnectionListAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnListActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnWifiEditActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/app/RemotePCDroid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/app/RemotePCDroid$CloseConnectionScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/app/RemotePCDroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/connection/Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/connection/ConnectionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/classes/org/techgaun/android/remotepcdroid/client/connection/ConnectionWifi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/res/crunch/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/res/crunch/drawable/wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/bin/resources.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/gen/org/techgaun/android/remotepcdroid/client/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/gen/org/techgaun/android/remotepcdroid/client/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/drawable/button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/drawable/wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/layout/connection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/layout/connectionwifiedit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/layout/control.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/layout/fsexplorer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/layout/init.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/layout/shortcuts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/res/xml/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidControlActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidFEActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidSettingsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnEditActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnWifiEditActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/app/RemotePCDroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/connection/Connection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/connection/ConnectionList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Client/src/org/techgaun/android/remotepcdroid/client/connection/ConnectionWifi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.euml2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/.svn/text-base/org.eclipse.core.resources.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/.svn/text-base/org.eclipse.core.runtime.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/.svn/text-base/org.eclipse.jdt.core.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/.svn/text-base/org.eclipse.jdt.ui.prefs.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/.umlproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/RemotePCDroidActionReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/RemotePCDroidConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/AuthenticationAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/AuthenticationResponseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/FileExploreRequestAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/FileExploreResponseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/HibernateAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/MouseKeyboardAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/RebootAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/RemotePCDroidAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/action/ShutDownAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/bin/org/techgaun/remotepcdroid/protocol/tcp/RemotePCDroidConnectionTcp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/RemotePCDroidActionReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/RemotePCDroidConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/AuthenticationAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/AuthenticationResponseAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/FileExploreRequestAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/FileExploreResponseAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/HibernateAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/MouseKeyboardAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/RebootAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/RemotePCDroidAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/action/ShutDownAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Protocol/src/org/techgaun/remotepcdroid/protocol/tcp/RemotePCDroidConnectionTcp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.euml2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.externalToolBuilders/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.externalToolBuilders/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.externalToolBuilders/.svn/text-base/PRemoteDroid Server-build.launch.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.externalToolBuilders/RemotePCDroid Server-build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.settings/org.eclipse.ltk.core.refactoring.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/.umlproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/RemotePCDroid Server.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServerConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServerTcp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/bin/org/techgaun/desktop/remotepcdroidserver/gui/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/export/RemotePCDroid-Server.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/export/RemotePCDroid-Server/RemotePCDroid-Server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/export/RemotePCDroid-Server/bluecove-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/export/RemotePCDroid-Server/bluecove-gpl-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/lib/bluecove-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/lib/bluecove-gpl-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/src/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/src/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/src/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServerConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/src/org/techgaun/desktop/remotepcdroidserver/RemotePCDroidServerTcp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/src/org/techgaun/desktop/remotepcdroidserver/gui/RemotePCDroidServerGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemotePCDroid Server/src/org/techgaun/desktop/remotepcdroidserver/gui/icon.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1413858457">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="apk" value="2" />
+          <entry key="bat" value="1" />
+          <entry key="gradle" value="23" />
+          <entry key="gradlew" value="7" />
+          <entry key="iml" value="9" />
+          <entry key="java" value="61" />
+          <entry key="json" value="2" />
+          <entry key="png" value="5" />
+          <entry key="properties" value="5" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="APK" value="2" />
+          <entry key="Groovy" value="23" />
+          <entry key="IDEA_MODULE" value="9" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="61" />
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="java" value="4" />
+          <entry key="xml" value="234" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="234" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/connection/ConnectionList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remotePCDroidClient/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/connection/ConnectionWifi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-187">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/remotePCDroidProtocol.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="25" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidControlActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RemotePCDroid Client1.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/build.gradle" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidControlActivity.java" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/fsexplorer.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/shortcuts.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity.java" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/control.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/connection.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/init.xml" />
+        <option value="$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidInit.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="316" />
+    <option name="width" value="1366" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="client" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="client" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="client" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="client" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="connection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidClient" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidProtocol" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidProtocol" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="remotePCDroidProtocol" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidClient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidClient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidClient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidClient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidClient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidClient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RemotePCDroid Client1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemotePCDroid Client1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="remotePCDroidProtocol" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/remotePCDroidClient" />
+    <property name="android.sdk.path" value="$USER_HOME$/opt/AndroidSDK" />
+    <property name="device.picker.selection" value="192.168.56.101:5555" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/remotePCDroidClient" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/remotePCDroidClient/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remotePCDroidClient" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="remotePCDroidClient" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eb5c3ec-59ea-4dba-9914-966678b2dacc" name="Default Changelist" comment="" />
+      <created>1558007350767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558007350767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="316" width="1366" height="765" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3239757" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.15650173" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32936507" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3912543" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.45806453" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidControlActivity.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnEditActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/connection/RemotePCDroidConnWifiEditActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/src/main/java/org/techgaun/remotepcdroid/protocol/RemotePCDroidActionReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/src/main/java/org/techgaun/remotepcdroid/protocol/RemotePCDroidConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/src/main/java/org/techgaun/remotepcdroid/protocol/action/AuthenticationResponseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/drawable/wifi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/drawable/button.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/xml/settings.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/drawable/icon.png" />
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/shortcuts.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/control.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/fsexplorer.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/init.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/build/outputs/apk/debug/output.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/remotePCDroidClient.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/build/outputs/apk/debug/remotePCDroidClient-debug.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/connection.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/res/layout/connectionwifiedit.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/app/RemotePCDroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="true" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="16" column="41" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidFEActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidSettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="70" column="53" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidShortcutsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1942">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/connection/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/connection/ConnectionList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/connection/ConnectionWifi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemotePCDroid Client1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidProtocol/remotePCDroidProtocol.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remotePCDroidClient/src/main/java/org/techgaun/android/remotepcdroid/client/activity/RemotePCDroidControlActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
